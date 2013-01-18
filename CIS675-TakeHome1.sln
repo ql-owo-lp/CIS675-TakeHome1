@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CIS675-TakeHome1", "CIS675-TakeHome1\CIS675-TakeHome1.vcxproj", "{97434C49-B799-48C1-BDD3-21D8C4560A88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CIS675-Takehome1-DP-Optimized", "CIS675-Takehome1-DP-Optimized\CIS675-Takehome1-DP-Optimized.vcxproj", "{5622069F-3EF3-4430-A125-091F7A5BFCFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97434C49-B799-48C1-BDD3-21D8C4560A88}.Debug|Win32.ActiveCfg = Debug|Win32
+		{97434C49-B799-48C1-BDD3-21D8C4560A88}.Debug|Win32.Build.0 = Debug|Win32
+		{97434C49-B799-48C1-BDD3-21D8C4560A88}.Release|Win32.ActiveCfg = Release|Win32
+		{97434C49-B799-48C1-BDD3-21D8C4560A88}.Release|Win32.Build.0 = Release|Win32
+		{5622069F-3EF3-4430-A125-091F7A5BFCFE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5622069F-3EF3-4430-A125-091F7A5BFCFE}.Debug|Win32.Build.0 = Debug|Win32
+		{5622069F-3EF3-4430-A125-091F7A5BFCFE}.Release|Win32.ActiveCfg = Release|Win32
+		{5622069F-3EF3-4430-A125-091F7A5BFCFE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
